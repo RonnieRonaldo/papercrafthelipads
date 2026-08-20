@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://papercrafthelipads.com/sitemap.xml
